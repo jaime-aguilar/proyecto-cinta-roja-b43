@@ -1,0 +1,7 @@
+Javascript
+------------
+
+typeof no necesita paréntesis
+Arreglos:
+se pueden mostrar arreglo[],[]
+cmd + shift + 7 para hacer comentario
